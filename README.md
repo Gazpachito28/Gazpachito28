@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Blog sobre BeltrixGPT</title>
+  <title>BeltrixGPT</title>
 </head>
 <body style="background-color: lightblue";>
   
